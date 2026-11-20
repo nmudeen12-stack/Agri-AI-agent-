@@ -1,0 +1,13 @@
+PASS — Default allocation earns 21700
+PASS — Cash constraint
+PASS — Mass balance
+PASS — Shelf-life excludes storage
+PASS — Export blocked without eligibility
+PASS — Export enabled when eligible
+PASS — Spoiled produce routed only to non-food
+PASS — Uneconomical waste route rejected
+PASS — Impossible cash flagged
+PASS — Price downside changes allocation
+PASS — Edible grade B only processor
+PASS — Zero quantity
+12/12 tests passed (synthetic scenarios).
